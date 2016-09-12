@@ -1,0 +1,15 @@
+{
+  "name": "octobat-checkout",
+  "version": "1.0.0",
+  "description": "NPM module for Octobat Checkout",
+  "main": "lib/octobat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Octobat",
+    "Checkout"
+  ],
+  "author": "Philippe SULTAN <philippe.sultan@gmail.com>",
+  "license": "ISC"
+}
